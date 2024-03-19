@@ -73,8 +73,10 @@ main{
 }
 
 .task-list{
-    font-size: 25px;
+    font-size: 18px;
     font-weight: bold;
+    font-family: sans-serif;
+
 }
 
 .list{
@@ -83,8 +85,12 @@ main{
     display: inline-block;
 }
 
+.check{
+    color: rgb(101, 252, 101);
+}
 .bold{
     font-weight: bold;
+    font-family: sans-serif;
 }
 
 
@@ -93,6 +99,28 @@ main{
     color: rgb(255, 255, 255);
     width: 3%;
     border-radius: 20%;
-    font-size: small;
-    padding: 3px;
+    font-size: 8px;
+    padding: 4px;
+    font-family: sans-serif;
 }
+
+ul{
+    margin: 2% 0%;
+}
+
+.bottom{
+    margin-bottom: 5%;
+}
+
+/* SECONDA LISTA NON ORDINATA */
+
+.goals{
+    background-color: rgb(253, 84, 242);
+    color: rgb(255, 255, 255);
+    width: 3%;
+    border-radius: 20%;
+    font-size: 8px;
+    padding: 4px;
+    font-family: sans-serif;
+}
+
