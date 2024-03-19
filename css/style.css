@@ -25,7 +25,7 @@
 
 }
 main{
-    background-color: rgb(227, 227, 227);
+    background-color: rgb(237, 235, 235);
     width: 100%;
     height: 1200px;
     padding: 5%;
@@ -55,10 +55,46 @@ main{
     background-color: rgb(200, 200, 201);
     color: rgb(221, 227, 38);
     width: 5%;
-    
     margin-top: 3%;
     border-radius: 10%;
     font-size: small;
     padding: 5px;
 }
 
+/* SEZIONE LISTA NON ORDINATA */
+
+#other-bacground{
+    background-color: white;
+    border-radius: 2%;
+    width: 50%;
+    margin-left: 25%;
+    padding: 38px;
+    margin-top: 3px;
+}
+
+.task-list{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.list{
+    list-style: none;
+    font-size: 15px;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.inline-block{
+    display: inline-block;
+}
+
+.editorial{
+    background-color: rgb(50, 224, 243);
+    color: rgb(255, 255, 255);
+    width: 3%;
+    border-radius: 20%;
+    font-size: small;
+    padding: 3px;
+}
