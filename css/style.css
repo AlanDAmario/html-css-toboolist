@@ -4,3 +4,16 @@
     box-sizing: border-box;
 }
 
+/* LOGO */
+.logo{
+    margin: 2% 2%;
+    display: inline-block;
+    font-size: 50px;
+}
+
+.logo-text{
+    vertical-align: 10px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
