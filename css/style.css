@@ -80,15 +80,13 @@ main{
 .list{
     list-style: none;
     font-size: 15px;
+    display: inline-block;
 }
 
 .bold{
     font-weight: bold;
 }
 
-.inline-block{
-    display: inline-block;
-}
 
 .editorial{
     background-color: rgb(50, 224, 243);
